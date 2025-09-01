@@ -7,7 +7,7 @@
     <artifactId>myweb</artifactId>
     <packaging>war</packaging>
     <version>17</version>
-    <name>Java Home mywebb</name>
+    <name>Java Home mywebbb</name>
     <url>http://maven.apache.org</url>
 
     <properties>
